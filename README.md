@@ -1,11 +1,7 @@
-## Olá! Eu sou o Brayan Guimarães ⚡
+## Sou Brayan Guimarães | Dev curioso por natureza ⚡
 
-<div>
-  <a href="https://github.com/BrayanGuimaraesDev">
-  <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=BrayanGuimaraesDev&theme=dracula&include_all_commits=true&show_icons=true"/>
-  <img height="142em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrayanGuimaraesDev&layout=compact&langs_cout=16&theme=dracula"/>
-  
-</div>
+Acabei de criar essa conta e, em breve, vou compartilhar meus projetos e códigos.
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
