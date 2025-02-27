@@ -1,4 +1,4 @@
-## Sou Brayan Guimarães | Dev curioso por natureza ⚡
+## Sou Brayan Guimarães | Dev⚡
 
 Acabei de criar essa conta e, em breve, vou compartilhar meus projetos e códigos.
 
