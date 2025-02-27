@@ -31,7 +31,7 @@ Acabei de criar essa conta e, em breve, vou compartilhar meus projetos e código
       align="left" 
       alt="GitHub Stats" 
       height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrayanGuimaraesDev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrayanGuimaraesDev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
   />
 
 
