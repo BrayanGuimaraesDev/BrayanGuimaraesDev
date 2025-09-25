@@ -1,9 +1,7 @@
 #  Brayan Guimarães ⚡
-**`Dev`**
+**`Data Scientist | Data Analyst`**
 <br/>
 
-
-Acabei de criar essa conta e, em breve, vou compartilhar meus projetos e códigos.
 
 <p align="left">
  <a href="https://discord.gg/brayot" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
